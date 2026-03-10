@@ -6,3 +6,10 @@ A simple memory matching game.  The user clicks two cards (images of memes) to t
 
 The game consists of HTML, CSS and JavaScript.
 
+## Screenshots
+- Policy Bucket
+![](policy.png)
+- CodePipeline
+![](pipeline.png)
+- Website
+![](site.png)
